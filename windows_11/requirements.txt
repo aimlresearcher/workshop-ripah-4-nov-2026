@@ -1,0 +1,7 @@
+# Python packages for the workshop (installed into .venv by setup_windows.bat).
+# Ollama itself is installed by the setup script (winget install Ollama.Ollama).
+ollama>=0.6
+pandas>=2.1
+pydantic>=2.6
+tzdata>=2024.1
+jupyterlab>=4.1

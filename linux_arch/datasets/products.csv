@@ -1,0 +1,13 @@
+product_id,name,category,shape,frame_color,description,price,stock
+SG101,Classic Round,sunglasses,round,tortoiseshell,Lightweight round acetate frame with UV400 lenses.,79.00,12
+SG102,Retro Circle,sunglasses,round,black,Thin metal circular frame inspired by 1970s styles.,65.00,0
+SG103,Premium Round,sunglasses,round,gold,Polarised round titanium frame with scratch-resistant coating.,135.00,6
+SG104,Urban Square,sunglasses,square,black,Bold square frame with gradient lenses.,89.00,18
+SG105,Aviator Classic,sunglasses,aviator,gold,Teardrop metal aviator with green lenses.,120.00,9
+SG106,Sport Wrap,sunglasses,wrap,red,Wraparound sports frame with rubber nose pads.,55.00,22
+SG107,Oval Breeze,sunglasses,oval,clear,Softly rounded oval frame; customers often describe it as round.,72.00,15
+SG108,Cat-Eye Luxe,sunglasses,cat-eye,pink,Upswept cat-eye acetate frame.,98.00,4
+SG109,Kids Round Flex,sunglasses,round,blue,"Flexible round frame for children, UV400.",39.00,0
+AC110,Round Clip-On Lenses,accessory,round,black,Clip-on round tinted lenses that attach to prescription glasses.,25.00,30
+AC201,Hard Case,accessory,none,grey,Protective zip case for most frame sizes.,15.00,40
+AC202,Lens Cleaning Kit,accessory,none,white,Microfibre cloth and lens spray.,9.00,55

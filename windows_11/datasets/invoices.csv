@@ -1,0 +1,19 @@
+invoice_number,vendor,vendor_country,raw_text,issue_date,due_date,format_type
+INV-2025-001,Northwind Supplies,US,Invoice INV-2025-001 | Issued: 2025-03-04 | Payment due: 2025-04-03 | Total $412.50,2025-03-04,2025-04-03,iso_explicit
+INV-2025-002,Bluebird Print Co.,US,Invoice date 03/10/2025. Amount payable in full; due by 04/09/2025.,2025-03-10,2025-04-09,us_slash
+INV-2025-003,Thames Office Ltd,GB,Date: 04/03/2025. Payment due: 05/04/2025. VAT included.,2025-03-04,2025-04-05,ambiguous_dd_mm
+INV-2025-004,Prairie Coffee Roasters,US,"Issued March 3, 2025. Terms: Net 30. Thank you for your business.",2025-03-03,2025-04-02,net_terms
+INV-2025-005,Harbor Cleaning Services,US,Invoice date: 2025-05-12. Due on receipt.,2025-05-12,2025-05-12,due_on_receipt
+INV-2025-006,Kestrel Logistics,GB,Issue date: 14 April 2025. Payment due 14 May 2025.,2025-04-14,2025-05-14,text_month
+INV-2025-007,Maple Leaf Packaging,CA,Please pay by the 5th of June 2025. Invoice issued 6 May 2025.,2025-05-06,2025-06-05,ordinal_pay_by
+INV-2025-008,Summit IT Support,US,Due date: 2025-07-01 | Invoice date: 2025-06-01,2025-06-01,2025-07-01,due_listed_first
+INV-2025-009,Rheinland Maschinenbau GmbH,DE,"Rechnungsdatum 2025.06.02, Zahlung fällig am 2025.07.02.",2025-06-02,2025-07-02,non_english_keyword
+INV-2025-010,Desert Bloom Florists,US,Issued 06/15/2025; due 07/15/2025.,2025-06-15,2025-07-15,us_slash
+INV-2025-011,Oxford Lane Stationers,GB,"All dates DD/MM/YYYY. Issued 02/06/2025, due 02/07/2025.",2025-06-02,2025-07-02,ambiguous_dd_mm
+INV-2025-012,Greenfield Seeds,US,"Invoice date 2025-07-10, payment terms Net 45.",2025-07-10,2025-08-24,net_terms
+INV-2025-013,Lakeside Catering,US,"Issued July 1, 2025. Payment due August 1, 2025.",2025-07-01,2025-08-01,text_month
+INV-2025-014,Atlas Web Hosting,US,"Amount due: $1,250.00. Invoice date 2025-08-05. Please remit by 2025-09-04.",2025-08-05,2025-09-04,misleading_keyword
+INV-2025-015,Pioneer Hardware,US,"Invoice INV-2025-015, issued 2025-08-11, payment due 2025-09-10.",2025-08-11,2025-09-10,iso_explicit
+INV-2025-016,Coral Coast Tours,AU,Tax invoice dated 12/08/2025. Due 26/08/2025.,2025-08-12,2025-08-26,ambiguous_dd_mm
+INV-2025-017,Redwood Legal LLP,US,"Issued Sept 1, 2025. Due: Sept 30, 2025.",2025-09-01,2025-09-30,abbrev_month
+INV-2025-018,Silverline Telecom,US,Invoice date: 2025-09-15  Due date: 2025-10-15,2025-09-15,2025-10-15,iso_explicit
